@@ -7,4 +7,4 @@ The main reason for applying masking to a data field is to protect data that is 
 
 Log is important but sometimes you should be carefull what you are logging, sensitive personal data should not be be logged, As it can give chance to employees and hackers willing to get malicious in order to turn a profit on the black market.
 
-Masking log is one the initial step which organisation follows.
+Masking log is one the initial step which organisation take.
